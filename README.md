@@ -1,6 +1,6 @@
 # soypremshandilya.github.io
 ---
-# Project1 - Snake Game
+# Project 1 - Snake Game
 - Snake Game: [Snake Game](https://soypremshandilya.github.io/Snake-Game/)
 
 ---
