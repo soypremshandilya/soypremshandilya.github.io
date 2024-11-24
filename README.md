@@ -15,4 +15,4 @@
 ---
 
 # Project 4 - Email Sender
-- Email Sender: [Email Sender](https://github.com/soypremshandilya/Email-Sender/)
+- Email Sender: [Email Sender](https://soypremshandilya.github.io/Email-Sender/)
